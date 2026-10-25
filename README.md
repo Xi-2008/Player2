@@ -1,0 +1,2 @@
+# Player2
+Player2是一个Godot引擎写的跑酷与恐怖两个模式的游戏
